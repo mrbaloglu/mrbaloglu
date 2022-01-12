@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrbaloglu
-- 👀 I’m interested in NLP, Signal Processing and Reinforcement Learning
+- 👀 I’m interested in NLP, Signal Processing and Reinforcement Learning.
 - 🌱 I’m currently learning to use RL on NLP tasks.
 - 💞️ I’m looking to collaborate on relevant projects for my interests.
 - 📫 How to reach me: mrbaloglu[at]gmail.com
